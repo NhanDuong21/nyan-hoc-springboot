@@ -24,7 +24,7 @@ application-dev.properties
 application-prod.properties
 
 # Nếu application.properties có password thật thì bật dòng này
-# src/main/resources/application.properties
+src/main/resources/application.properties
 
 # OS files
 .DS_Store
